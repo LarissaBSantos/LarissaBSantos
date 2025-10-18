@@ -24,5 +24,5 @@
 
 ## Contatos
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flate&logo=gmail&logoColor=white)](mailto:larissabatista0704@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](mailto:www.linkedin.com/in/larissa-batista-dos-santos-7b640b265)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/larissa-batista-dos-santos-7b640b265/)
 
